@@ -1,0 +1,6 @@
+
+There are only 11 left
+We have 100 in that box
+There were 1000 people there
+
+myArray[0] = 0;
